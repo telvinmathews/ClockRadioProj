@@ -42,6 +42,7 @@ namespace clockProj
             Console.WriteLine("Change station. ");
             currentStation = Console.ReadLine();
         }
+        //jhbsljbl
 
         public string GetAlarmTime()
         {
